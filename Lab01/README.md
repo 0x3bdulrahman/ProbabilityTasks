@@ -1,5 +1,7 @@
 # Lab1 Probability Tasks 
-### Question 1:
+
+## Question 1:
+
 Mean ($\mu$) = (106 + 121 + 152 + 234 + 3472) / 5 = 817.0
 
 Variance ($\sigma^2$) = $\frac{\Sigma (X_i - \mu)^2}{N}$ = $\frac{(106 - 817)^2 + (121 - 817)^2 + (152 - 817)^2 + (234 - 817)^2 + (3472 - 817)^2}{5}$
@@ -10,7 +12,7 @@ Variance ($\sigma^2$) = $\frac{\Sigma (X_i - \mu)^2}{N}$ = $\frac{(106 - 817)^2 
 
 Standard Deviation ($\sigma$) = $\sqrt{1745735.2}$ ≈ 1321.53
 
-### Question 2:
+## Question 2:
 
 Mean ($\mu$) = (1450 + 1250 + 1776 + 1388 + 1340) / 5 = 1440.8
 
@@ -22,7 +24,7 @@ Variance ($\sigma^2$) = $\frac{(1450 - 1440.8)^2 + (1250 - 1440.8)^2 + (1776 - 1
 
 Standard Deviation ($\sigma$) = $\sqrt{30565.04}$ ≈ 174.77
 
-### Question 3:
+## Question 3:
 
 Mean ($\mu$) = (7.7 + 7.4 + 7.3 + 7.94) / 4 = 7.585
 
@@ -34,7 +36,7 @@ Variance ($\sigma^2$) = $\frac{(7.7 - 7.585)^2 + (7.4 - 7.585)^2 + (7.3 - 7.585)
 
 Standard Deviation ($\sigma$) = $\sqrt{0.063675}$ ≈ 0.25234
 
-### Question 4:
+## Question 4:
 
 Mean ($\mu$) = (112 + 100 + 127 + 120 + 134 + 118 + 105 + 110) / 8 = 117.375
 
